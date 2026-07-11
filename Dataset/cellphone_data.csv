@@ -1,0 +1,991 @@
+user_id,cellphone_id,rating,brand,model,operating system,internal memory,RAM,performance,main camera,selfie camera,battery size,screen size,weight,price(INR),release date,user_name,Region(City),Salary_in_INR,age,gender,occupation
+0,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Ram,Delhi,570500,38,Female,Data analyst
+0,5,3,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Ram,Delhi,570500,38,Female,Data analyst
+0,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Ram,Delhi,570500,38,Female,Data analyst
+0,9,3,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Ram,Delhi,570500,38,Female,Data analyst
+0,23,2,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Ram,Delhi,570500,38,Female,Data analyst
+0,8,2,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Ram,Delhi,570500,38,Female,Data analyst
+0,22,1,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Ram,Delhi,570500,38,Female,Data analyst
+0,16,2,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Ram,Delhi,570500,38,Female,Data analyst
+0,19,1,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Ram,Delhi,570500,38,Female,Data analyst
+0,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Ram,Delhi,570500,38,Female,Data analyst
+1,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Suraj,Chennai,560000,40,Female,Team leader
+1,31,7,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Suraj,Chennai,560000,40,Female,Team leader
+1,18,5,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Suraj,Chennai,560000,40,Female,Team leader
+1,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Suraj,Chennai,560000,40,Female,Team leader
+1,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Suraj,Chennai,560000,40,Female,Team leader
+1,28,8,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Suraj,Chennai,560000,40,Female,Team leader
+1,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Suraj,Chennai,560000,40,Female,Team leader
+1,15,8,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Suraj,Chennai,560000,40,Female,Team leader
+1,4,7,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Suraj,Chennai,560000,40,Female,Team leader
+1,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Suraj,Chennai,560000,40,Female,Team leader
+6,13,5,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Deeba,Delhi,582500,55,Female,Information technology
+6,31,6,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Deeba,Delhi,582500,55,Female,Information technology
+6,23,8,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Deeba,Delhi,582500,55,Female,Information technology
+6,1,2,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Deeba,Delhi,582500,55,Female,Information technology
+6,8,7,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Deeba,Delhi,582500,55,Female,Information technology
+6,19,1,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Deeba,Delhi,582500,55,Female,Information technology
+6,32,10,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Deeba,Delhi,582500,55,Female,Information technology
+6,7,9,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Deeba,Delhi,582500,55,Female,Information technology
+6,27,4,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Deeba,Delhi,582500,55,Female,Information technology
+6,16,3,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Deeba,Delhi,582500,55,Female,Information technology
+8,29,6,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Arun,Delhi,637500,25,Female,Manager
+8,22,9,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Arun,Delhi,637500,25,Female,Manager
+8,32,9,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Arun,Delhi,637500,25,Female,Manager
+8,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Arun,Delhi,637500,25,Female,Manager
+8,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Arun,Delhi,637500,25,Female,Manager
+8,0,5,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Arun,Delhi,637500,25,Female,Manager
+8,11,6,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Arun,Delhi,637500,25,Female,Manager
+8,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Arun,Delhi,637500,25,Female,Manager
+8,21,5,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Arun,Delhi,637500,25,Female,Manager
+8,27,8,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Arun,Delhi,637500,25,Female,Manager
+10,23,9,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Abhi,Bangalore,456225,23,Male,worker
+10,5,3,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Abhi,Bangalore,456225,23,Male,worker
+10,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Abhi,Bangalore,456225,23,Male,worker
+10,4,9,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Abhi,Bangalore,456225,23,Male,worker
+10,14,10,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Abhi,Bangalore,456225,23,Male,worker
+10,3,9,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Abhi,Bangalore,456225,23,Male,worker
+10,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Abhi,Bangalore,456225,23,Male,worker
+10,16,8,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Abhi,Bangalore,456225,23,Male,worker
+10,27,8,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Abhi,Bangalore,456225,23,Male,worker
+10,11,8,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Abhi,Bangalore,456225,23,Male,worker
+12,24,4,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Shruti,Kolkata,442000,28,Female,Accountant
+12,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Shruti,Kolkata,442000,28,Female,Accountant
+12,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Shruti,Kolkata,442000,28,Female,Accountant
+12,13,6,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Shruti,Kolkata,442000,28,Female,Accountant
+12,6,6,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Shruti,Kolkata,442000,28,Female,Accountant
+12,32,5,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Shruti,Kolkata,442000,28,Female,Accountant
+12,27,4,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Shruti,Kolkata,442000,28,Female,Accountant
+12,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Shruti,Kolkata,442000,28,Female,Accountant
+12,31,3,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Shruti,Kolkata,442000,28,Female,Accountant
+12,23,6,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Shruti,Kolkata,442000,28,Female,Accountant
+16,15,10,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Smriti,Ahmedabad,446500,31,Female,sales
+16,24,3,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Smriti,Ahmedabad,446500,31,Female,sales
+16,0,1,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Smriti,Ahmedabad,446500,31,Female,sales
+16,30,2,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Smriti,Ahmedabad,446500,31,Female,sales
+16,27,4,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Smriti,Ahmedabad,446500,31,Female,sales
+16,11,8,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Smriti,Ahmedabad,446500,31,Female,sales
+16,26,5,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Smriti,Ahmedabad,446500,31,Female,sales
+16,13,7,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Smriti,Ahmedabad,446500,31,Female,sales
+16,9,6,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Smriti,Ahmedabad,446500,31,Female,sales
+16,6,2,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Smriti,Ahmedabad,446500,31,Female,sales
+24,20,9,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Rahul,Pune,585500,57,Female,Information technology
+24,28,8,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Rahul,Pune,585500,57,Female,Information technology
+24,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Rahul,Pune,585500,57,Female,Information technology
+24,21,8,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Rahul,Pune,585500,57,Female,Information technology
+24,22,7,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Rahul,Pune,585500,57,Female,Information technology
+24,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Rahul,Pune,585500,57,Female,Information technology
+24,18,8,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Rahul,Pune,585500,57,Female,Information technology
+24,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Rahul,Pune,585500,57,Female,Information technology
+24,23,7,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Rahul,Pune,585500,57,Female,Information technology
+24,15,10,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Rahul,Pune,585500,57,Female,Information technology
+25,2,9,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Zeba,Bangalore,440500,27,Female,Team leader
+25,5,6,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Zeba,Bangalore,440500,27,Female,Team leader
+25,14,2,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Zeba,Bangalore,440500,27,Female,Team leader
+25,30,5,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Zeba,Bangalore,440500,27,Female,Team leader
+25,12,3,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Zeba,Bangalore,440500,27,Female,Team leader
+25,32,9,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Zeba,Bangalore,440500,27,Female,Team leader
+25,8,10,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Zeba,Bangalore,440500,27,Female,Team leader
+25,13,1,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Zeba,Bangalore,440500,27,Female,Team leader
+25,16,9,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Zeba,Bangalore,440500,27,Female,Team leader
+25,20,5,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Zeba,Bangalore,440500,27,Female,Team leader
+26,20,6,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Alexei,Delhi,442000,28,Female,FINANCE
+26,32,9,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Alexei,Delhi,442000,28,Female,FINANCE
+26,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Alexei,Delhi,442000,28,Female,FINANCE
+26,15,7,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Alexei,Delhi,442000,28,Female,FINANCE
+26,23,6,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Alexei,Delhi,442000,28,Female,FINANCE
+26,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Alexei,Delhi,442000,28,Female,FINANCE
+26,22,10,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Alexei,Delhi,442000,28,Female,FINANCE
+26,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Alexei,Delhi,442000,28,Female,FINANCE
+26,18,5,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Alexei,Delhi,442000,28,Female,FINANCE
+26,4,9,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Alexei,Delhi,442000,28,Female,FINANCE
+27,11,8,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Preti,Chennai,438400,29,Female,Finance
+27,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Preti,Chennai,438400,29,Female,Finance
+27,19,6,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Preti,Chennai,438400,29,Female,Finance
+27,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Preti,Chennai,438400,29,Female,Finance
+27,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Preti,Chennai,438400,29,Female,Finance
+27,18,6,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Preti,Chennai,438400,29,Female,Finance
+27,6,8,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Preti,Chennai,438400,29,Female,Finance
+27,21,9,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Preti,Chennai,438400,29,Female,Finance
+27,32,8,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Preti,Chennai,438400,29,Female,Finance
+27,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Preti,Chennai,438400,29,Female,Finance
+28,28,1,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Anjali,Kolkata,449500,33,Female,Sales
+28,31,1,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Anjali,Kolkata,449500,33,Female,Sales
+28,5,10,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Anjali,Kolkata,449500,33,Female,Sales
+28,8,1,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Anjali,Kolkata,449500,33,Female,Sales
+28,14,1,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Anjali,Kolkata,449500,33,Female,Sales
+28,17,1,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Anjali,Kolkata,449500,33,Female,Sales
+28,22,1,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Anjali,Kolkata,449500,33,Female,Sales
+28,29,1,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Anjali,Kolkata,449500,33,Female,Sales
+28,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Anjali,Kolkata,449500,33,Female,Sales
+28,25,1,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Anjali,Kolkata,449500,33,Female,Sales
+29,14,5,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Hari,Chennai,691500,61,Female,Ops Manager
+29,8,7,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Hari,Chennai,691500,61,Female,Ops Manager
+29,19,5,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Hari,Chennai,691500,61,Female,Ops Manager
+29,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Hari,Chennai,691500,61,Female,Ops Manager
+29,7,6,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Hari,Chennai,691500,61,Female,Ops Manager
+29,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Hari,Chennai,691500,61,Female,Ops Manager
+29,2,6,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Hari,Chennai,691500,61,Female,Ops Manager
+29,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Hari,Chennai,691500,61,Female,Ops Manager
+29,26,5,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Hari,Chennai,691500,61,Female,Ops Manager
+29,5,4,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Hari,Chennai,691500,61,Female,Ops Manager
+30,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Shweta,Delhi,473550,34,Male,ICT Officer
+30,14,6,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Shweta,Delhi,473550,34,Male,ICT Officer
+30,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Shweta,Delhi,473550,34,Male,ICT Officer
+30,15,6,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Shweta,Delhi,473550,34,Male,ICT Officer
+30,26,9,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Shweta,Delhi,473550,34,Male,ICT Officer
+30,9,4,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Shweta,Delhi,473550,34,Male,ICT Officer
+30,0,4,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Shweta,Delhi,473550,34,Male,ICT Officer
+30,16,8,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Shweta,Delhi,473550,34,Male,ICT Officer
+30,4,7,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Shweta,Delhi,473550,34,Male,ICT Officer
+30,2,5,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Shweta,Delhi,473550,34,Male,ICT Officer
+32,12,1,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,2,9,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,13,1,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,26,9,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,11,1,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,31,3,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,20,2,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,6,2,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Alia,Kolkata,691425,39,Male,QA Software Manager
+32,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Alia,Kolkata,691425,39,Male,QA Software Manager
+33,30,10,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Varun,Pune,445000,30,Female,HEALTHCARE
+33,29,9,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Varun,Pune,445000,30,Female,HEALTHCARE
+33,13,8,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Varun,Pune,445000,30,Female,HEALTHCARE
+33,6,8,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Varun,Pune,445000,30,Female,HEALTHCARE
+33,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Varun,Pune,445000,30,Female,HEALTHCARE
+33,19,10,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Varun,Pune,445000,30,Female,HEALTHCARE
+33,9,10,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Varun,Pune,445000,30,Female,HEALTHCARE
+33,10,10,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Varun,Pune,445000,30,Female,HEALTHCARE
+33,25,10,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Varun,Pune,445000,30,Female,HEALTHCARE
+33,32,8,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Varun,Pune,445000,30,Female,HEALTHCARE
+35,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Sid,Kolkata,484575,41,Male,self employed
+35,12,2,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Sid,Kolkata,484575,41,Male,self employed
+35,26,2,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Sid,Kolkata,484575,41,Male,self employed
+35,17,3,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Sid,Kolkata,484575,41,Male,self employed
+35,23,2,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Sid,Kolkata,484575,41,Male,self employed
+35,0,6,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Sid,Kolkata,484575,41,Male,self employed
+35,18,9,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Sid,Kolkata,484575,41,Male,self employed
+35,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Sid,Kolkata,484575,41,Male,self employed
+35,6,5,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Sid,Kolkata,484575,41,Male,self employed
+35,4,1,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Sid,Kolkata,484575,41,Male,self employed
+36,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Aliza,Chennai,486150,42,Male,banking
+36,26,1,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Aliza,Chennai,486150,42,Male,banking
+36,6,1,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Aliza,Chennai,486150,42,Male,banking
+36,1,6,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Aliza,Chennai,486150,42,Male,banking
+36,5,6,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Aliza,Chennai,486150,42,Male,banking
+36,10,4,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Aliza,Chennai,486150,42,Male,banking
+36,22,4,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Aliza,Chennai,486150,42,Male,banking
+36,14,1,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Aliza,Chennai,486150,42,Male,banking
+36,9,4,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Aliza,Chennai,486150,42,Male,banking
+36,17,2,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Aliza,Chennai,486150,42,Male,banking
+37,24,6,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Uma,Kolkata,350000,34,Female,nurse
+37,32,5,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Uma,Kolkata,350000,34,Female,nurse
+37,28,10,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Uma,Kolkata,350000,34,Female,nurse
+37,7,1,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Uma,Kolkata,350000,34,Female,nurse
+37,18,5,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Uma,Kolkata,350000,34,Female,nurse
+37,31,2,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Uma,Kolkata,350000,34,Female,nurse
+37,23,9,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Uma,Kolkata,350000,34,Female,nurse
+37,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Uma,Kolkata,350000,34,Female,nurse
+37,13,5,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Uma,Kolkata,350000,34,Female,nurse
+37,15,5,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Uma,Kolkata,350000,34,Female,nurse
+38,1,7,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Yara,Delhi,486150,42,Male,Executive Manager
+38,30,4,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Yara,Delhi,486150,42,Male,Executive Manager
+38,5,8,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Yara,Delhi,486150,42,Male,Executive Manager
+38,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Yara,Delhi,486150,42,Male,Executive Manager
+38,10,7,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Yara,Delhi,486150,42,Male,Executive Manager
+38,15,2,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Yara,Delhi,486150,42,Male,Executive Manager
+38,2,8,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Yara,Delhi,486150,42,Male,Executive Manager
+38,11,7,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Yara,Delhi,486150,42,Male,Executive Manager
+38,6,5,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Yara,Delhi,486150,42,Male,Executive Manager
+38,25,6,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Yara,Delhi,486150,42,Male,Executive Manager
+52,20,10,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Dany,Hyderabad,459375,25,Male,software developer
+52,0,5,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Dany,Hyderabad,459375,25,Male,software developer
+52,13,4,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Dany,Hyderabad,459375,25,Male,software developer
+52,27,6,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Dany,Hyderabad,459375,25,Male,software developer
+52,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Dany,Hyderabad,459375,25,Male,software developer
+52,8,1,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Dany,Hyderabad,459375,25,Male,software developer
+52,5,2,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Dany,Hyderabad,459375,25,Male,software developer
+52,3,2,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Dany,Hyderabad,459375,25,Male,software developer
+52,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Dany,Hyderabad,459375,25,Male,software developer
+52,15,5,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Dany,Hyderabad,459375,25,Male,software developer
+53,32,9,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,5,8,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,15,10,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,4,9,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,26,9,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,9,8,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,29,8,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+53,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,John,Kolkata,457000,38,Male,ADMINISTRATIVE OFFICER
+56,15,5,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Tyra,Mumbai,675000,50,Female,manager
+56,32,3,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Tyra,Mumbai,675000,50,Female,manager
+56,30,2,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Tyra,Mumbai,675000,50,Female,manager
+56,5,9,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Tyra,Mumbai,675000,50,Female,manager
+56,25,3,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Tyra,Mumbai,675000,50,Female,manager
+56,1,9,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Tyra,Mumbai,675000,50,Female,manager
+56,12,5,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Tyra,Mumbai,675000,50,Female,manager
+56,8,10,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Tyra,Mumbai,675000,50,Female,manager
+56,17,6,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Tyra,Mumbai,675000,50,Female,manager
+56,13,9,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Tyra,Mumbai,675000,50,Female,manager
+60,16,6,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Kiran,Mumbai,504500,48,Male,Information technology
+60,11,3,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Kiran,Mumbai,504500,48,Male,Information technology
+60,32,8,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Kiran,Mumbai,504500,48,Male,Information technology
+60,9,5,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Kiran,Mumbai,504500,48,Male,Information technology
+60,28,1,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Kiran,Mumbai,504500,48,Male,Information technology
+60,26,9,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Kiran,Mumbai,504500,48,Male,Information technology
+60,15,4,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Kiran,Mumbai,504500,48,Male,Information technology
+60,31,10,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Kiran,Mumbai,504500,48,Male,Information technology
+60,13,2,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Kiran,Mumbai,504500,48,Male,Information technology
+60,29,7,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Kiran,Mumbai,504500,48,Male,Information technology
+74,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Nisa,Ahmedabad,669375,25,Male,Manager
+74,25,7,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Nisa,Ahmedabad,669375,25,Male,Manager
+74,17,7,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Nisa,Ahmedabad,669375,25,Male,Manager
+74,11,8,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Nisa,Ahmedabad,669375,25,Male,Manager
+74,21,7,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Nisa,Ahmedabad,669375,25,Male,Manager
+74,8,6,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Nisa,Ahmedabad,669375,25,Male,Manager
+74,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Nisa,Ahmedabad,669375,25,Male,Manager
+74,28,7,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Nisa,Ahmedabad,669375,25,Male,Manager
+74,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Nisa,Ahmedabad,669375,25,Male,Manager
+74,16,6,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Nisa,Ahmedabad,669375,25,Male,Manager
+79,16,8,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Eden,Bangalore,620000,25,Male,Manager
+79,11,8,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Eden,Bangalore,620000,25,Male,Manager
+79,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Eden,Bangalore,620000,25,Male,Manager
+79,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Eden,Bangalore,620000,25,Male,Manager
+79,3,9,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Eden,Bangalore,620000,25,Male,Manager
+79,23,8,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Eden,Bangalore,620000,25,Male,Manager
+79,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Eden,Bangalore,620000,25,Male,Manager
+79,31,5,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Eden,Bangalore,620000,25,Male,Manager
+79,14,7,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Eden,Bangalore,620000,25,Male,Manager
+79,5,6,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Eden,Bangalore,620000,25,Male,Manager
+80,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Wasim,Pune,406000,25,Male,worker
+80,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Wasim,Pune,406000,25,Male,worker
+80,30,8,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Wasim,Pune,406000,25,Male,worker
+80,9,9,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Wasim,Pune,406000,25,Male,worker
+80,28,9,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Wasim,Pune,406000,25,Male,worker
+80,31,8,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Wasim,Pune,406000,25,Male,worker
+80,22,10,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Wasim,Pune,406000,25,Male,worker
+80,5,7,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Wasim,Pune,406000,25,Male,worker
+80,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Wasim,Pune,406000,25,Male,worker
+80,2,9,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Wasim,Pune,406000,25,Male,worker
+84,25,1,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,31,9,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,28,10,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,21,1,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,7,10,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,30,9,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,14,10,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,17,9,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Qubra,Hyderabad,471975,33,Male,Warehousing
+84,26,1,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Qubra,Hyderabad,471975,33,Male,Warehousing
+85,18,1,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Omer,Hyderabad,449500,33,Female,Sales
+85,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Omer,Hyderabad,449500,33,Female,Sales
+85,25,1,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Omer,Hyderabad,449500,33,Female,Sales
+85,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Omer,Hyderabad,449500,33,Female,Sales
+85,15,1,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Omer,Hyderabad,449500,33,Female,Sales
+85,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Omer,Hyderabad,449500,33,Female,Sales
+85,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Omer,Hyderabad,449500,33,Female,Sales
+85,14,1,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Omer,Hyderabad,449500,33,Female,Sales
+85,17,1,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Omer,Hyderabad,449500,33,Female,Sales
+85,21,1,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Omer,Hyderabad,449500,33,Female,Sales
+91,31,8,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,1,9,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,2,9,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,15,6,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,22,5,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,19,8,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,21,8,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Zara,Kolkata,473550,34,Male,WEB DESIGN
+91,11,7,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Zara,Kolkata,473550,34,Male,WEB DESIGN
+95,17,9,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,David,Bangalore,464100,28,Male,Information Technology
+95,22,10,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,David,Bangalore,464100,28,Male,Information Technology
+95,30,5,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,David,Bangalore,464100,28,Male,Information Technology
+95,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,David,Bangalore,464100,28,Male,Information Technology
+95,29,6,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,David,Bangalore,464100,28,Male,Information Technology
+95,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,David,Bangalore,464100,28,Male,Information Technology
+95,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,David,Bangalore,464100,28,Male,Information Technology
+95,32,4,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,David,Bangalore,464100,28,Male,Information Technology
+95,15,5,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,David,Bangalore,464100,28,Male,Information Technology
+95,5,5,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,David,Bangalore,464100,28,Male,Information Technology
+98,0,10,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,2,9,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,8,9,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,9,8,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+98,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Samarth,Ahmedabad,700500,25,Female,Technical Engineer
+99,17,10,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,26,9,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,13,10,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,22,10,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,21,9,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,8,9,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,25,10,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Sarvesh,Delhi,467250,30,Male,Information Technology
+99,30,10,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Sarvesh,Delhi,467250,30,Male,Information Technology
+100,20,10,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Vaish,Chennai,601500,43,Female,Information technology
+100,27,9,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Vaish,Chennai,601500,43,Female,Information technology
+100,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Vaish,Chennai,601500,43,Female,Information technology
+100,30,8,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Vaish,Chennai,601500,43,Female,Information technology
+100,29,8,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Vaish,Chennai,601500,43,Female,Information technology
+100,8,10,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Vaish,Chennai,601500,43,Female,Information technology
+100,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Vaish,Chennai,601500,43,Female,Information technology
+100,7,9,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Vaish,Chennai,601500,43,Female,Information technology
+100,13,10,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Vaish,Chennai,601500,43,Female,Information technology
+100,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Vaish,Chennai,601500,43,Female,Information technology
+104,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,13,8,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,15,8,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,11,10,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,28,10,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,31,10,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,27,8,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+104,16,10,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Farhan,Pune,470400,32,Male,ADMINISTRATIVE OFFICER
+105,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Alen,Delhi,437500,25,Female,System Administrator
+105,18,7,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Alen,Delhi,437500,25,Female,System Administrator
+105,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Alen,Delhi,437500,25,Female,System Administrator
+105,19,6,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Alen,Delhi,437500,25,Female,System Administrator
+105,9,8,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Alen,Delhi,437500,25,Female,System Administrator
+105,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Alen,Delhi,437500,25,Female,System Administrator
+105,14,9,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Alen,Delhi,437500,25,Female,System Administrator
+105,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Alen,Delhi,437500,25,Female,System Administrator
+105,7,9,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Alen,Delhi,437500,25,Female,System Administrator
+105,20,10,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Alen,Delhi,437500,25,Female,System Administrator
+106,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Akshay,Ahmedabad,680400,32,Male,manager
+106,20,6,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Akshay,Ahmedabad,680400,32,Male,manager
+106,15,7,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Akshay,Ahmedabad,680400,32,Male,manager
+106,14,8,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Akshay,Ahmedabad,680400,32,Male,manager
+106,4,6,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Akshay,Ahmedabad,680400,32,Male,manager
+106,26,7,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Akshay,Ahmedabad,680400,32,Male,manager
+106,18,5,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Akshay,Ahmedabad,680400,32,Male,manager
+106,5,6,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Akshay,Ahmedabad,680400,32,Male,manager
+106,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Akshay,Ahmedabad,680400,32,Male,manager
+106,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Akshay,Ahmedabad,680400,32,Male,manager
+110,8,2,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Nandha,Bangalore,476700,36,Male,Marketing
+110,12,6,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Nandha,Bangalore,476700,36,Male,Marketing
+110,27,1,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Nandha,Bangalore,476700,36,Male,Marketing
+110,31,2,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Nandha,Bangalore,476700,36,Male,Marketing
+110,24,1,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Nandha,Bangalore,476700,36,Male,Marketing
+110,5,2,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Nandha,Bangalore,476700,36,Male,Marketing
+110,3,3,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Nandha,Bangalore,476700,36,Male,Marketing
+110,29,6,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Nandha,Bangalore,476700,36,Male,Marketing
+110,9,7,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Nandha,Bangalore,476700,36,Male,Marketing
+110,14,1,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Nandha,Bangalore,476700,36,Male,Marketing
+111,8,4,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Laksh,Chennai,455500,37,Female,EDUCATION
+111,4,1,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Laksh,Chennai,455500,37,Female,EDUCATION
+111,7,3,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Laksh,Chennai,455500,37,Female,EDUCATION
+111,20,10,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Laksh,Chennai,455500,37,Female,EDUCATION
+111,25,5,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Laksh,Chennai,455500,37,Female,EDUCATION
+111,30,9,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Laksh,Chennai,455500,37,Female,EDUCATION
+111,5,2,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Laksh,Chennai,455500,37,Female,EDUCATION
+111,23,7,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Laksh,Chennai,455500,37,Female,EDUCATION
+111,18,6,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Laksh,Chennai,455500,37,Female,EDUCATION
+111,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Laksh,Chennai,455500,37,Female,EDUCATION
+112,17,10,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Chris,Bangalore,545000,30,Female,Security
+112,23,10,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Chris,Bangalore,545000,30,Female,Security
+112,13,8,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Chris,Bangalore,545000,30,Female,Security
+112,27,9,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Chris,Bangalore,545000,30,Female,Security
+112,11,1,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Chris,Bangalore,545000,30,Female,Security
+112,31,2,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Chris,Bangalore,545000,30,Female,Security
+112,6,4,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Chris,Bangalore,545000,30,Female,Security
+112,29,3,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Chris,Bangalore,545000,30,Female,Security
+112,14,2,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Chris,Bangalore,545000,30,Female,Security
+112,3,8,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Chris,Bangalore,545000,30,Female,Security
+113,14,5,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Geethu,Ahmedabad,560000,56,Female,retail
+113,1,5,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Geethu,Ahmedabad,560000,56,Female,retail
+113,29,2,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Geethu,Ahmedabad,560000,56,Female,retail
+113,27,1,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Geethu,Ahmedabad,560000,56,Female,retail
+113,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Geethu,Ahmedabad,560000,56,Female,retail
+113,26,1,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Geethu,Ahmedabad,560000,56,Female,retail
+113,7,10,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Geethu,Ahmedabad,560000,56,Female,retail
+113,21,1,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Geethu,Ahmedabad,560000,56,Female,retail
+113,15,6,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Geethu,Ahmedabad,560000,56,Female,retail
+113,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Geethu,Ahmedabad,560000,56,Female,retail
+114,3,7,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Angel,Delhi,492450,46,Male,technician
+114,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Angel,Delhi,492450,46,Male,technician
+114,28,7,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Angel,Delhi,492450,46,Male,technician
+114,24,6,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Angel,Delhi,492450,46,Male,technician
+114,8,6,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Angel,Delhi,492450,46,Male,technician
+114,29,6,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Angel,Delhi,492450,46,Male,technician
+114,4,7,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Angel,Delhi,492450,46,Male,technician
+114,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Angel,Delhi,492450,46,Male,technician
+114,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Angel,Delhi,492450,46,Male,technician
+114,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Angel,Delhi,492450,46,Male,technician
+115,7,1,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Abraham,Mumbai,300000,37,Female,homemaker
+115,25,10,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Abraham,Mumbai,300000,37,Female,homemaker
+115,3,7,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Abraham,Mumbai,300000,37,Female,homemaker
+115,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Abraham,Mumbai,300000,37,Female,homemaker
+115,11,9,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Abraham,Mumbai,300000,37,Female,homemaker
+115,2,6,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Abraham,Mumbai,300000,37,Female,homemaker
+115,13,4,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Abraham,Mumbai,300000,37,Female,homemaker
+115,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Abraham,Mumbai,300000,37,Female,homemaker
+115,30,5,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Abraham,Mumbai,300000,37,Female,homemaker
+115,26,10,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Abraham,Mumbai,300000,37,Female,homemaker
+116,19,1,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Yusuf,Hyderabad,470400,32,Male,teacher
+116,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Yusuf,Hyderabad,470400,32,Male,teacher
+116,20,1,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Yusuf,Hyderabad,470400,32,Male,teacher
+116,10,1,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Yusuf,Hyderabad,470400,32,Male,teacher
+116,12,1,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Yusuf,Hyderabad,470400,32,Male,teacher
+116,13,1,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Yusuf,Hyderabad,470400,32,Male,teacher
+116,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Yusuf,Hyderabad,470400,32,Male,teacher
+116,16,1,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Yusuf,Hyderabad,470400,32,Male,teacher
+116,31,1,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Yusuf,Hyderabad,470400,32,Male,teacher
+116,27,1,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Yusuf,Hyderabad,470400,32,Male,teacher
+119,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Alice,Pune,500000,49,Female,president transportation company
+119,3,1,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Alice,Pune,500000,49,Female,president transportation company
+119,16,4,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Alice,Pune,500000,49,Female,president transportation company
+119,7,5,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Alice,Pune,500000,49,Female,president transportation company
+119,23,9,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Alice,Pune,500000,49,Female,president transportation company
+119,10,3,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Alice,Pune,500000,49,Female,president transportation company
+119,11,2,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Alice,Pune,500000,49,Female,president transportation company
+119,28,10,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Alice,Pune,500000,49,Female,president transportation company
+119,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Alice,Pune,500000,49,Female,president transportation company
+119,15,6,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Alice,Pune,500000,49,Female,president transportation company
+120,8,10,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Bob,Hyderabad,675000,50,Female,manager
+120,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Bob,Hyderabad,675000,50,Female,manager
+120,9,6,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Bob,Hyderabad,675000,50,Female,manager
+120,25,5,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Bob,Hyderabad,675000,50,Female,manager
+120,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Bob,Hyderabad,675000,50,Female,manager
+120,29,10,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Bob,Hyderabad,675000,50,Female,manager
+120,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Bob,Hyderabad,675000,50,Female,manager
+120,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Bob,Hyderabad,675000,50,Female,manager
+120,21,7,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Bob,Hyderabad,675000,50,Female,manager
+120,1,7,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Bob,Hyderabad,675000,50,Female,manager
+123,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Charlie,Mumbai,680400,32,Male,manager
+123,14,7,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Charlie,Mumbai,680400,32,Male,manager
+123,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Charlie,Mumbai,680400,32,Male,manager
+123,3,8,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Charlie,Mumbai,680400,32,Male,manager
+123,8,7,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Charlie,Mumbai,680400,32,Male,manager
+123,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Charlie,Mumbai,680400,32,Male,manager
+123,29,7,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Charlie,Mumbai,680400,32,Male,manager
+123,2,6,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Charlie,Mumbai,680400,32,Male,manager
+123,31,7,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Charlie,Mumbai,680400,32,Male,manager
+123,26,7,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Charlie,Mumbai,680400,32,Male,manager
+124,18,6,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Evan,Kolkata,599000,50,Female,manager
+124,19,9,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Evan,Kolkata,599000,50,Female,manager
+124,14,8,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Evan,Kolkata,599000,50,Female,manager
+124,13,6,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Evan,Kolkata,599000,50,Female,manager
+124,16,6,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Evan,Kolkata,599000,50,Female,manager
+124,29,8,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Evan,Kolkata,599000,50,Female,manager
+124,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Evan,Kolkata,599000,50,Female,manager
+124,6,8,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Evan,Kolkata,599000,50,Female,manager
+124,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Evan,Kolkata,599000,50,Female,manager
+124,7,9,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Evan,Kolkata,599000,50,Female,manager
+126,14,9,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Ria,Mumbai,440500,27,Female,Information Technology
+126,18,7,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Ria,Mumbai,440500,27,Female,Information Technology
+126,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Ria,Mumbai,440500,27,Female,Information Technology
+126,1,7,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Ria,Mumbai,440500,27,Female,Information Technology
+126,4,9,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Ria,Mumbai,440500,27,Female,Information Technology
+126,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Ria,Mumbai,440500,27,Female,Information Technology
+126,5,10,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Ria,Mumbai,440500,27,Female,Information Technology
+126,12,10,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Ria,Mumbai,440500,27,Female,Information Technology
+126,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Ria,Mumbai,440500,27,Female,Information Technology
+126,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Ria,Mumbai,440500,27,Female,Information Technology
+128,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Sophia,Delhi,675000,50,Female,manager
+128,14,6,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Sophia,Delhi,675000,50,Female,manager
+128,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Sophia,Delhi,675000,50,Female,manager
+128,4,6,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Sophia,Delhi,675000,50,Female,manager
+128,6,5,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Sophia,Delhi,675000,50,Female,manager
+128,13,4,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Sophia,Delhi,675000,50,Female,manager
+128,23,8,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Sophia,Delhi,675000,50,Female,manager
+128,28,5,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Sophia,Delhi,675000,50,Female,manager
+128,12,5,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Sophia,Delhi,675000,50,Female,manager
+128,32,2,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Sophia,Delhi,675000,50,Female,manager
+129,18,6,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Lucas,Chennai,491500,61,Female,Information Technology
+129,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Lucas,Chennai,491500,61,Female,Information Technology
+129,27,9,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Lucas,Chennai,491500,61,Female,Information Technology
+129,9,10,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Lucas,Chennai,491500,61,Female,Information Technology
+129,26,7,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Lucas,Chennai,491500,61,Female,Information Technology
+129,5,9,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Lucas,Chennai,491500,61,Female,Information Technology
+129,31,7,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Lucas,Chennai,491500,61,Female,Information Technology
+129,21,7,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Lucas,Chennai,491500,61,Female,Information Technology
+129,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Lucas,Chennai,491500,61,Female,Information Technology
+129,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Lucas,Chennai,491500,61,Female,Information Technology
+137,1,7,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Maria,Kolkata,450400,29,Female,Information Technology
+137,9,9,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Maria,Kolkata,450400,29,Female,Information Technology
+137,14,9,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Maria,Kolkata,450400,29,Female,Information Technology
+137,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Maria,Kolkata,450400,29,Female,Information Technology
+137,31,10,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Maria,Kolkata,450400,29,Female,Information Technology
+137,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Maria,Kolkata,450400,29,Female,Information Technology
+137,32,10,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Maria,Kolkata,450400,29,Female,Information Technology
+137,22,9,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Maria,Kolkata,450400,29,Female,Information Technology
+137,26,6,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Maria,Kolkata,450400,29,Female,Information Technology
+137,19,6,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Maria,Kolkata,450400,29,Female,Information Technology
+140,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Emma,Kolkata,465675,29,Male,Information Technology
+140,18,7,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Emma,Kolkata,465675,29,Male,Information Technology
+140,32,9,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Emma,Kolkata,465675,29,Male,Information Technology
+140,14,8,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Emma,Kolkata,465675,29,Male,Information Technology
+140,20,10,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Emma,Kolkata,465675,29,Male,Information Technology
+140,19,9,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Emma,Kolkata,465675,29,Male,Information Technology
+140,11,9,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Emma,Kolkata,465675,29,Male,Information Technology
+140,3,8,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Emma,Kolkata,465675,29,Male,Information Technology
+140,15,8,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Emma,Kolkata,465675,29,Male,Information Technology
+140,13,10,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Emma,Kolkata,465675,29,Male,Information Technology
+142,31,7,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Priya,Ahmedabad,680400,32,Male,manager
+142,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Priya,Ahmedabad,680400,32,Male,manager
+142,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Priya,Ahmedabad,680400,32,Male,manager
+142,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Priya,Ahmedabad,680400,32,Male,manager
+142,28,7,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Priya,Ahmedabad,680400,32,Male,manager
+142,15,7,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Priya,Ahmedabad,680400,32,Male,manager
+142,9,7,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Priya,Ahmedabad,680400,32,Male,manager
+142,32,8,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Priya,Ahmedabad,680400,32,Male,manager
+142,11,6,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Priya,Ahmedabad,680400,32,Male,manager
+142,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Priya,Ahmedabad,680400,32,Male,manager
+143,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Chloe,Hyderabad,680400,32,Male,manager
+143,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Chloe,Hyderabad,680400,32,Male,manager
+143,18,7,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Chloe,Hyderabad,680400,32,Male,manager
+143,28,7,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Chloe,Hyderabad,680400,32,Male,manager
+143,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Chloe,Hyderabad,680400,32,Male,manager
+143,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Chloe,Hyderabad,680400,32,Male,manager
+143,27,6,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Chloe,Hyderabad,680400,32,Male,manager
+143,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Chloe,Hyderabad,680400,32,Male,manager
+143,13,7,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Chloe,Hyderabad,680400,32,Male,manager
+143,14,8,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Chloe,Hyderabad,680400,32,Male,manager
+144,30,7,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,5,10,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,28,9,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,22,7,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,15,9,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,18,8,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+144,29,7,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Rajesh,Pune,457000,38,Male,ADMINISTRATIVE OFFICER
+145,5,8,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Grace,Mumbai,680400,32,Male,manager
+145,29,7,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Grace,Mumbai,680400,32,Male,manager
+145,30,7,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Grace,Mumbai,680400,32,Male,manager
+145,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Grace,Mumbai,680400,32,Male,manager
+145,0,8,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Grace,Mumbai,680400,32,Male,manager
+145,15,8,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Grace,Mumbai,680400,32,Male,manager
+145,26,7,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Grace,Mumbai,680400,32,Male,manager
+145,28,6,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Grace,Mumbai,680400,32,Male,manager
+145,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Grace,Mumbai,680400,32,Male,manager
+145,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Grace,Mumbai,680400,32,Male,manager
+148,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Silva,Kolkata,596500,31,Female,Data analyst
+148,18,2,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Silva,Kolkata,596500,31,Female,Data analyst
+148,6,4,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Silva,Kolkata,596500,31,Female,Data analyst
+148,16,2,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Silva,Kolkata,596500,31,Female,Data analyst
+148,26,5,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Silva,Kolkata,596500,31,Female,Data analyst
+148,0,10,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Silva,Kolkata,596500,31,Female,Data analyst
+148,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Silva,Kolkata,596500,31,Female,Data analyst
+148,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Silva,Kolkata,596500,31,Female,Data analyst
+148,5,4,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Silva,Kolkata,596500,31,Female,Data analyst
+148,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Silva,Kolkata,596500,31,Female,Data analyst
+152,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Noah,Ahmedabad,545000,30,Female,Security
+152,5,9,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Noah,Ahmedabad,545000,30,Female,Security
+152,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Noah,Ahmedabad,545000,30,Female,Security
+152,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Noah,Ahmedabad,545000,30,Female,Security
+152,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Noah,Ahmedabad,545000,30,Female,Security
+152,10,2,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Noah,Ahmedabad,545000,30,Female,Security
+152,28,2,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Noah,Ahmedabad,545000,30,Female,Security
+152,15,1,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Noah,Ahmedabad,545000,30,Female,Security
+152,8,2,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Noah,Ahmedabad,545000,30,Female,Security
+152,19,8,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Noah,Ahmedabad,545000,30,Female,Security
+154,25,7,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Zahra,Chennai,470400,32,Male,Information technology
+154,6,9,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Zahra,Chennai,470400,32,Male,Information technology
+154,21,6,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Zahra,Chennai,470400,32,Male,Information technology
+154,13,6,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Zahra,Chennai,470400,32,Male,Information technology
+154,20,6,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Zahra,Chennai,470400,32,Male,Information technology
+154,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Zahra,Chennai,470400,32,Male,Information technology
+154,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Zahra,Chennai,470400,32,Male,Information technology
+154,27,9,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Zahra,Chennai,470400,32,Male,Information technology
+154,11,8,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Zahra,Chennai,470400,32,Male,Information technology
+154,8,9,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Zahra,Chennai,470400,32,Male,Information technology
+156,21,8,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Hassan,Hyderabad,458500,39,Female,master degree
+156,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Hassan,Hyderabad,458500,39,Female,master degree
+156,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Hassan,Hyderabad,458500,39,Female,master degree
+156,28,8,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Hassan,Hyderabad,458500,39,Female,master degree
+156,5,10,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Hassan,Hyderabad,458500,39,Female,master degree
+156,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Hassan,Hyderabad,458500,39,Female,master degree
+156,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Hassan,Hyderabad,458500,39,Female,master degree
+156,9,8,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Hassan,Hyderabad,458500,39,Female,master degree
+156,19,9,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Hassan,Hyderabad,458500,39,Female,master degree
+156,23,6,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Hassan,Hyderabad,458500,39,Female,master degree
+160,8,1,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Ali,Pune,468825,31,Male,construction
+160,27,3,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Ali,Pune,468825,31,Male,construction
+160,12,10,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Ali,Pune,468825,31,Male,construction
+160,31,1,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Ali,Pune,468825,31,Male,construction
+160,7,1,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Ali,Pune,468825,31,Male,construction
+160,9,6,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Ali,Pune,468825,31,Male,construction
+160,6,4,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Ali,Pune,468825,31,Male,construction
+160,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Ali,Pune,468825,31,Male,construction
+160,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Ali,Pune,468825,31,Male,construction
+160,18,1,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Ali,Pune,468825,31,Male,construction
+162,30,9,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Jack,Hyderabad,610320,50,Male,Manager
+162,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Jack,Hyderabad,610320,50,Male,Manager
+162,4,6,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Jack,Hyderabad,610320,50,Male,Manager
+162,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Jack,Hyderabad,610320,50,Male,Manager
+162,8,9,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Jack,Hyderabad,610320,50,Male,Manager
+162,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Jack,Hyderabad,610320,50,Male,Manager
+162,10,6,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Jack,Hyderabad,610320,50,Male,Manager
+162,5,8,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Jack,Hyderabad,610320,50,Male,Manager
+162,0,7,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Jack,Hyderabad,610320,50,Male,Manager
+162,3,8,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Jack,Hyderabad,610320,50,Male,Manager
+164,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Robin,Hyderabad,453075,21,Male,accountant
+164,9,6,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Robin,Hyderabad,453075,21,Male,accountant
+164,2,7,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Robin,Hyderabad,453075,21,Male,accountant
+164,28,8,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Robin,Hyderabad,453075,21,Male,accountant
+164,17,6,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Robin,Hyderabad,453075,21,Male,accountant
+164,4,4,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Robin,Hyderabad,453075,21,Male,accountant
+164,23,6,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Robin,Hyderabad,453075,21,Male,accountant
+164,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Robin,Hyderabad,453075,21,Male,accountant
+164,16,5,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Robin,Hyderabad,453075,21,Male,accountant
+164,24,7,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Robin,Hyderabad,453075,21,Male,accountant
+169,31,1,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Anderson,Delhi,672310,38,Female,Manager
+169,1,5,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Anderson,Delhi,672310,38,Female,Manager
+169,5,7,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Anderson,Delhi,672310,38,Female,Manager
+169,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Anderson,Delhi,672310,38,Female,Manager
+169,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Anderson,Delhi,672310,38,Female,Manager
+169,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Anderson,Delhi,672310,38,Female,Manager
+169,2,10,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Anderson,Delhi,672310,38,Female,Manager
+169,12,10,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Anderson,Delhi,672310,38,Female,Manager
+169,9,8,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Anderson,Delhi,672310,38,Female,Manager
+169,26,8,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Anderson,Delhi,672310,38,Female,Manager
+178,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Rossi,Chennai,459375,25,Male,software developer
+178,10,9,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Rossi,Chennai,459375,25,Male,software developer
+178,14,5,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Rossi,Chennai,459375,25,Male,software developer
+178,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Rossi,Chennai,459375,25,Male,software developer
+178,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Rossi,Chennai,459375,25,Male,software developer
+178,0,9,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Rossi,Chennai,459375,25,Male,software developer
+178,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Rossi,Chennai,459375,25,Male,software developer
+178,22,9,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Rossi,Chennai,459375,25,Male,software developer
+178,7,10,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Rossi,Chennai,459375,25,Male,software developer
+178,15,10,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Rossi,Chennai,459375,25,Male,software developer
+183,14,7,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Robinson,Kolkata,475125,35,Male,Team leader
+183,22,6,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Robinson,Kolkata,475125,35,Male,Team leader
+183,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Robinson,Kolkata,475125,35,Male,Team leader
+183,17,5,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Robinson,Kolkata,475125,35,Male,Team leader
+183,27,5,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Robinson,Kolkata,475125,35,Male,Team leader
+183,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Robinson,Kolkata,475125,35,Male,Team leader
+183,28,7,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Robinson,Kolkata,475125,35,Male,Team leader
+183,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Robinson,Kolkata,475125,35,Male,Team leader
+183,7,6,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Robinson,Kolkata,475125,35,Male,Team leader
+183,2,8,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Robinson,Kolkata,475125,35,Male,Team leader
+194,10,7,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,1,9,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,11,5,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,19,4,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,18,2,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,9,3,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,22,8,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,3,6,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+194,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Monica,Chennai,492450,46,Male,ADMINISTRATIVE OFFICER
+200,16,3,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,17,4,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,30,9,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,13,2,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,31,10,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,11,1,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,32,8,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,6,5,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Joseph,Ahmedabad,600600,48,Male,Information technology
+200,21,6,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Joseph,Ahmedabad,600600,48,Male,Information technology
+203,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,30,9,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,31,10,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,29,5,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,1,4,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,11,1,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,13,2,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,23,3,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Ananya,Ahmedabad,557000,38,Female,Information technology
+203,27,6,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Ananya,Ahmedabad,557000,38,Female,Information technology
+204,19,6,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,30,3,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,0,9,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,32,3,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,7,7,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,18,8,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+204,15,6,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Michael,Hyderabad,445000,30,Female,ADMINISTRATIVE OFFICER
+208,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Kavya,Chennai,465675,29,Male,Information Technology
+208,0,7,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Kavya,Chennai,465675,29,Male,Information Technology
+208,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Kavya,Chennai,465675,29,Male,Information Technology
+208,13,10,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Kavya,Chennai,465675,29,Male,Information Technology
+208,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Kavya,Chennai,465675,29,Male,Information Technology
+208,30,8,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Kavya,Chennai,465675,29,Male,Information Technology
+208,18,10,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Kavya,Chennai,465675,29,Male,Information Technology
+208,16,8,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Kavya,Chennai,465675,29,Male,Information Technology
+208,2,8,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Kavya,Chennai,465675,29,Male,Information Technology
+208,22,7,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Kavya,Chennai,465675,29,Male,Information Technology
+211,23,8,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,3,8,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,29,9,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,13,7,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,2,8,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,22,6,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,10,7,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+211,14,8,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Hannah,Ahmedabad,655500,37,Female,SALES MANAGER
+215,23,8,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,9,7,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,18,7,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,0,9,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,15,7,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,10,7,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Diana,Hyderabad,663000,42,Female,Purchase Manager
+215,3,7,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Diana,Hyderabad,663000,42,Female,Purchase Manager
+226,8,7,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Thomas,Delhi,440500,27,Female,Information Technology
+226,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Thomas,Delhi,440500,27,Female,Information Technology
+226,1,9,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Thomas,Delhi,440500,27,Female,Information Technology
+226,22,10,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Thomas,Delhi,440500,27,Female,Information Technology
+226,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Thomas,Delhi,440500,27,Female,Information Technology
+226,18,10,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Thomas,Delhi,440500,27,Female,Information Technology
+226,12,8,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Thomas,Delhi,440500,27,Female,Information Technology
+226,0,10,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Thomas,Delhi,440500,27,Female,Information Technology
+226,15,9,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Thomas,Delhi,440500,27,Female,Information Technology
+226,5,9,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Thomas,Delhi,440500,27,Female,Information Technology
+227,23,7,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Lily,Bangalore,470400,32,Male,Information technology
+227,14,7,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Lily,Bangalore,470400,32,Male,Information technology
+227,6,8,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Lily,Bangalore,470400,32,Male,Information technology
+227,8,7,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Lily,Bangalore,470400,32,Male,Information technology
+227,16,6,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Lily,Bangalore,470400,32,Male,Information technology
+227,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Lily,Bangalore,470400,32,Male,Information technology
+227,24,10,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Lily,Bangalore,470400,32,Male,Information technology
+227,31,9,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Lily,Bangalore,470400,32,Male,Information technology
+227,0,8,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Lily,Bangalore,470400,32,Male,Information technology
+227,2,7,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Lily,Bangalore,470400,32,Male,Information technology
+230,24,8,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Carlos,Bangalore,486266,29,Female,Information Technology
+230,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Carlos,Bangalore,486266,29,Female,Information Technology
+230,32,7,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Carlos,Bangalore,486266,29,Female,Information Technology
+230,29,8,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Carlos,Bangalore,486266,29,Female,Information Technology
+230,5,10,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Carlos,Bangalore,486266,29,Female,Information Technology
+230,28,9,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Carlos,Bangalore,486266,29,Female,Information Technology
+230,30,8,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Carlos,Bangalore,486266,29,Female,Information Technology
+230,16,8,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Carlos,Bangalore,486266,29,Female,Information Technology
+230,8,7,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Carlos,Bangalore,486266,29,Female,Information Technology
+230,18,7,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Carlos,Bangalore,486266,29,Female,Information Technology
+231,6,10,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,9,7,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,30,4,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,19,8,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,17,10,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,15,10,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,25,7,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,27,9,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+231,4,6,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Meera,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+232,27,4,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Patrick,Mumbai,597450,46,Male,writer
+232,18,6,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Patrick,Mumbai,597450,46,Male,writer
+232,13,6,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Patrick,Mumbai,597450,46,Male,writer
+232,15,4,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Patrick,Mumbai,597450,46,Male,writer
+232,31,4,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Patrick,Mumbai,597450,46,Male,writer
+232,7,4,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Patrick,Mumbai,597450,46,Male,writer
+232,10,7,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Patrick,Mumbai,597450,46,Male,writer
+232,3,7,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Patrick,Mumbai,597450,46,Male,writer
+232,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Patrick,Mumbai,597450,46,Male,writer
+232,12,3,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Patrick,Mumbai,597450,46,Male,writer
+233,8,1,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Zainab,Mumbai,468825,31,Male,construction
+233,27,3,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Zainab,Mumbai,468825,31,Male,construction
+233,12,10,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Zainab,Mumbai,468825,31,Male,construction
+233,31,1,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Zainab,Mumbai,468825,31,Male,construction
+233,7,1,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Zainab,Mumbai,468825,31,Male,construction
+233,9,6,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Zainab,Mumbai,468825,31,Male,construction
+233,6,4,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Zainab,Mumbai,468825,31,Male,construction
+233,20,7,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Zainab,Mumbai,468825,31,Male,construction
+233,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Zainab,Mumbai,468825,31,Male,construction
+233,18,1,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Zainab,Mumbai,468825,31,Male,construction
+234,20,4,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Oliver,Pune,448000,32,Female,registered
+234,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Oliver,Pune,448000,32,Female,registered
+234,13,7,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Oliver,Pune,448000,32,Female,registered
+234,6,1,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Oliver,Pune,448000,32,Female,registered
+234,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Oliver,Pune,448000,32,Female,registered
+234,25,6,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Oliver,Pune,448000,32,Female,registered
+234,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Oliver,Pune,448000,32,Female,registered
+234,16,5,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Oliver,Pune,448000,32,Female,registered
+234,5,9,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Oliver,Pune,448000,32,Female,registered
+234,18,3,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Oliver,Pune,448000,32,Female,registered
+235,18,10,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Sunita,Pune,508200,56,Male,business
+235,8,8,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Sunita,Pune,508200,56,Male,business
+235,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Sunita,Pune,508200,56,Male,business
+235,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Sunita,Pune,508200,56,Male,business
+235,23,8,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Sunita,Pune,508200,56,Male,business
+235,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Sunita,Pune,508200,56,Male,business
+235,9,8,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Sunita,Pune,508200,56,Male,business
+235,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Sunita,Pune,508200,56,Male,business
+235,27,10,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Sunita,Pune,508200,56,Male,business
+235,0,10,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Sunita,Pune,508200,56,Male,business
+236,29,10,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Henry,Hyderabad,471975,33,Male,Transportation
+236,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Henry,Hyderabad,471975,33,Male,Transportation
+236,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Henry,Hyderabad,471975,33,Male,Transportation
+236,27,1,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Henry,Hyderabad,471975,33,Male,Transportation
+236,9,10,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Henry,Hyderabad,471975,33,Male,Transportation
+236,3,10,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Henry,Hyderabad,471975,33,Male,Transportation
+236,31,2,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Henry,Hyderabad,471975,33,Male,Transportation
+236,19,8,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Henry,Hyderabad,471975,33,Male,Transportation
+236,16,10,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Henry,Hyderabad,471975,33,Male,Transportation
+236,13,10,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Henry,Hyderabad,471975,33,Male,Transportation
+237,19,9,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Amira,Ahmedabad,471975,33,Male,Education
+237,22,6,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Amira,Ahmedabad,471975,33,Male,Education
+237,30,5,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Amira,Ahmedabad,471975,33,Male,Education
+237,13,3,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Amira,Ahmedabad,471975,33,Male,Education
+237,20,6,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Amira,Ahmedabad,471975,33,Male,Education
+237,2,6,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Amira,Ahmedabad,471975,33,Male,Education
+237,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Amira,Ahmedabad,471975,33,Male,Education
+237,15,4,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Amira,Ahmedabad,471975,33,Male,Education
+237,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Amira,Ahmedabad,471975,33,Male,Education
+237,8,3,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Amira,Ahmedabad,471975,33,Male,Education
+238,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Victor,Ahmedabad,535529,30,Male,Security
+238,5,9,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Victor,Ahmedabad,535529,30,Male,Security
+238,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Victor,Ahmedabad,535529,30,Male,Security
+238,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Victor,Ahmedabad,535529,30,Male,Security
+238,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Victor,Ahmedabad,535529,30,Male,Security
+238,10,2,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Victor,Ahmedabad,535529,30,Male,Security
+238,28,2,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Victor,Ahmedabad,535529,30,Male,Security
+238,15,1,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Victor,Ahmedabad,535529,30,Male,Security
+238,8,2,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Victor,Ahmedabad,535529,30,Male,Security
+238,19,8,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Victor,Ahmedabad,535529,30,Male,Security
+240,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,23,7,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,27,6,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,28,5,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,9,7,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,21,8,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,17,7,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,1,8,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Natalia,Chennai,655500,37,Female,SALES MANAGER
+240,7,7,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Natalia,Chennai,655500,37,Female,SALES MANAGER
+242,24,4,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,22,7,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,8,5,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,13,6,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,17,7,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,1,7,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,29,2,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,31,2,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Aditya,Delhi,475125,35,Male,HEALTHCARE
+242,10,8,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,Aditya,Delhi,475125,35,Male,HEALTHCARE
+243,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Javed,Pune,663000,42,Female,Manager
+243,15,8,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Javed,Pune,663000,42,Female,Manager
+243,13,7,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Javed,Pune,663000,42,Female,Manager
+243,24,6,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Javed,Pune,663000,42,Female,Manager
+243,23,10,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Javed,Pune,663000,42,Female,Manager
+243,28,8,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Javed,Pune,663000,42,Female,Manager
+243,21,6,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Javed,Pune,663000,42,Female,Manager
+243,20,9,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Javed,Pune,663000,42,Female,Manager
+243,6,8,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Javed,Pune,663000,42,Female,Manager
+243,18,9,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Javed,Pune,663000,42,Female,Manager
+244,29,8,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Anna,Mumbai,694575,41,Male,MANAGER
+244,12,9,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Anna,Mumbai,694575,41,Male,MANAGER
+244,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Anna,Mumbai,694575,41,Male,MANAGER
+244,20,9,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Anna,Mumbai,694575,41,Male,MANAGER
+244,25,9,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Anna,Mumbai,694575,41,Male,MANAGER
+244,19,9,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Anna,Mumbai,694575,41,Male,MANAGER
+244,24,9,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Anna,Mumbai,694575,41,Male,MANAGER
+244,5,8,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Anna,Mumbai,694575,41,Male,MANAGER
+244,9,9,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Anna,Mumbai,694575,41,Male,MANAGER
+244,0,9,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Anna,Mumbai,694575,41,Male,MANAGER
+245,2,6,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,24,3,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,19,7,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,22,10,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,27,7,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,25,7,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,31,2,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,15,5,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+245,11,7,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Ramesh,Delhi,475125,35,Male,HEALTHCARE
+246,17,7,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Noor,Mumbai,667500,45,Female,MANAGER
+246,6,6,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Noor,Mumbai,667500,45,Female,MANAGER
+246,7,2,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Noor,Mumbai,667500,45,Female,MANAGER
+246,8,3,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Noor,Mumbai,667500,45,Female,MANAGER
+246,29,3,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Noor,Mumbai,667500,45,Female,MANAGER
+246,28,6,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Noor,Mumbai,667500,45,Female,MANAGER
+246,0,8,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Noor,Mumbai,667500,45,Female,MANAGER
+246,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Noor,Mumbai,667500,45,Female,MANAGER
+246,23,9,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Noor,Mumbai,667500,45,Female,MANAGER
+246,30,1,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Noor,Mumbai,667500,45,Female,MANAGER
+251,15,7,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,George,Mumbai,481425,39,Male,Computer technician
+251,32,6,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,George,Mumbai,481425,39,Male,Computer technician
+251,2,7,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,George,Mumbai,481425,39,Male,Computer technician
+251,10,7,Samsung,Galaxy S22,Android,128,8,8.81,50,10,3700,6.1,167,46120.799999999996,25/02/2022,George,Mumbai,481425,39,Male,Computer technician
+251,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,George,Mumbai,481425,39,Male,Computer technician
+251,25,7,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,George,Mumbai,481425,39,Male,Computer technician
+251,18,6,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,George,Mumbai,481425,39,Male,Computer technician
+251,21,8,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,George,Mumbai,481425,39,Male,Computer technician
+251,22,7,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,George,Mumbai,481425,39,Male,Computer technician
+251,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,George,Mumbai,481425,39,Male,Computer technician
+252,6,10,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,9,7,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,30,4,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,19,8,OnePlus,Nord 2T,Android,128,8,6.04,50,32,4500,6.4,190,33105.65,21/05/2022,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,17,10,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,15,10,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,24,5,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,25,7,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,27,9,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+252,4,6,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Harleen,Kolkata,511350,58,Male,ADMINISTRATIVE OFFICER
+253,7,8,Samsung,Galaxy A13,Android,32,3,1.36,50,8,5000,6.6,196,13451.9,23/03/2022,Imran,Pune,460000,40,Female,Information Technology
+253,21,7,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Imran,Pune,460000,40,Female,Information Technology
+253,8,6,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Imran,Pune,460000,40,Female,Information Technology
+253,0,8,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Imran,Pune,460000,40,Female,Information Technology
+253,3,4,Apple,iPhone 13 Pro,iOS,256,6,7.94,12,12,3065,6.1,204,87262.65,24/09/2021,Imran,Pune,460000,40,Female,Information Technology
+253,30,6,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Imran,Pune,460000,40,Female,Information Technology
+253,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Imran,Pune,460000,40,Female,Information Technology
+253,28,7,Sony,Xperia Pro,Android,512,12,6.82,12,8,4000,6.5,225,174525.3,27/01/2021,Imran,Pune,460000,40,Female,Information Technology
+253,16,9,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Imran,Pune,460000,40,Female,Information Technology
+253,15,9,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Imran,Pune,460000,40,Female,Information Technology
+254,16,6,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Emily,Hyderabad,437500,25,Female,software developer
+254,21,4,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Emily,Hyderabad,437500,25,Female,software developer
+254,1,5,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Emily,Hyderabad,437500,25,Female,software developer
+254,26,10,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Emily,Hyderabad,437500,25,Female,software developer
+254,11,4,Samsung,Galaxy S22 Plus,Android,128,8,7.22,50,10,4500,6.6,195,78527.65,25/02/2022,Emily,Hyderabad,437500,25,Female,software developer
+254,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Emily,Hyderabad,437500,25,Female,software developer
+254,30,5,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Emily,Hyderabad,437500,25,Female,software developer
+254,5,10,Apple,iPhone XR,iOS,64,3,4.22,12,7,2942,6.1,194,20614.6,26/10/2018,Emily,Hyderabad,437500,25,Female,software developer
+254,32,8,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Emily,Hyderabad,437500,25,Female,software developer
+254,14,7,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Emily,Hyderabad,437500,25,Female,software developer
+255,8,10,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Helena,Pune,460000,25,Male,software developer
+255,21,10,OnePlus,10T,Android,128,8,11.0,50,16,4800,6.7,204,56690.149999999994,2022-06-08 00:00:00,Helena,Pune,460000,25,Male,software developer
+255,9,10,Samsung,Galaxy A53,Android,128,6,3.79,64,32,5000,6.5,189,27253.199999999997,24/03/2022,Helena,Pune,460000,25,Male,software developer
+255,1,10,Apple,iPhone 13 Mini,iOS,128,4,7.72,12,12,2438,5.4,141,61057.649999999994,24/09/2021,Helena,Pune,460000,25,Male,software developer
+255,12,10,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Helena,Pune,460000,25,Male,software developer
+255,4,10,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Helena,Pune,460000,25,Male,software developer
+255,25,10,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Helena,Pune,460000,25,Male,software developer
+255,6,10,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Helena,Pune,460000,25,Male,software developer
+255,14,10,Samsung,Galaxy Z Fold 3,Android,256,12,6.35,12,4,4400,7.6,271,157142.65,2021-11-08 00:00:00,Helena,Pune,460000,25,Male,software developer
+255,13,10,Samsung,Galaxy Z Flip 3,Android,128,8,5.96,12,10,3300,6.7,183,78527.65,2021-11-08 00:00:00,Helena,Pune,460000,25,Male,software developer
+256,2,7,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Faisal,Chennai,497175,49,Male,Information Technology
+256,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Faisal,Chennai,497175,49,Male,Information Technology
+256,4,5,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Faisal,Chennai,497175,49,Male,Information Technology
+256,12,7,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Faisal,Chennai,497175,49,Male,Information Technology
+256,31,7,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Faisal,Chennai,497175,49,Male,Information Technology
+256,22,6,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Faisal,Chennai,497175,49,Male,Information Technology
+256,18,8,OnePlus,Nord N20,Android,128,6,3.8,64,16,4500,6.4,173,26117.649999999998,28/04/2022,Faisal,Chennai,497175,49,Male,Information Technology
+256,32,9,Motorola,Moto G Power (2022),Android,64,4,1.35,50,8,5000,6.5,203,16509.149999999998,22/02/2022,Faisal,Chennai,497175,49,Male,Information Technology
+256,16,7,Google,Pixel 6a,Android,128,6,6.88,12,8,4410,6.1,178,39220.149999999994,21/07/2021,Faisal,Chennai,497175,49,Male,Information Technology
+256,15,9,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Faisal,Chennai,497175,49,Male,Information Technology
+257,4,8,Apple,iPhone 13 Pro Max,iOS,256,6,8.01,12,12,4352,6.7,240,104732.65,24/09/2021,Rebecca,Hyderabad,629075,25,Female,Manager
+257,12,7,Samsung,Galaxy S22 Ultra,Android,128,8,9.68,108,40,5000,6.8,228,73374.0,25/02/2022,Rebecca,Hyderabad,629075,25,Female,Manager
+257,25,8,Xiaomi,11T Pro,Android,256,8,7.59,108,16,5000,6.6,204,37997.25,2021-05-10 00:00:00,Rebecca,Hyderabad,629075,25,Female,Manager
+257,0,7,Apple,iPhone SE (2022),iOS,128,4,7.23,12,7,2018,4.7,144,37473.149999999994,18/03/2022,Rebecca,Hyderabad,629075,25,Female,Manager
+257,29,7,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Rebecca,Hyderabad,629075,25,Female,Manager
+257,8,5,Samsung,Galaxy A32,Android,64,4,2.2,48,13,5000,6.5,205,17382.649999999998,22/01/2021,Rebecca,Hyderabad,629075,25,Female,Manager
+257,17,9,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Rebecca,Hyderabad,629075,25,Female,Manager
+257,30,5,Motorola,Moto G Play (2021),Android,32,3,1.42,13,5,5000,6.5,204,13888.65,14/01/2021,Rebecca,Hyderabad,629075,25,Female,Manager
+257,2,6,Apple,iPhone 13,iOS,128,4,7.75,12,12,3240,6.1,174,61057.649999999994,24/09/2021,Rebecca,Hyderabad,629075,25,Female,Manager
+257,20,8,OnePlus,10 Pro,Android,128,8,8.86,48,32,5000,6.7,201,68133.0,2022-11-01 00:00:00,Rebecca,Hyderabad,629075,25,Female,Manager
+258,22,9,Oppo,Find X5 Pro,Android,256,12,10.12,50,32,5000,6.7,218,86214.45,14/03/2022,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,6,7,Asus,Zenfone 8,Android,128,8,6.76,64,12,4000,5.9,169,52322.649999999994,2021-12-05 00:00:00,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,29,6,Motorola,Moto G Stylus (2022),Android,128,6,2.3,50,16,5000,6.8,215,43675.0,27/04/2022,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,26,7,Xiaomi,12 Pro,Android,128,8,9.85,50,32,4600,6.7,204,53982.299999999996,31/12/2021,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,15,6,Google,Pixel 6  ,Android,128,8,6.76,50,8,4614,6.4,207,43587.649999999994,28/10/2021,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,31,5,Motorola,Moto G Pure,Android,32,3,1.02,13,5,4000,6.5,188,11268.15,14/10/2021,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,17,8,Google,Pixel 6 Pro ,Android,128,12,7.19,50,11,5003,6.7,210,61057.649999999994,28/10/2021,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,23,9,Vivo,X80 Pro,Android,256,8,9.81,50,32,4700,6.7,215,76169.2,29/04/2022,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,27,8,Xiaomi,Poco F4,Android,128,8,6.98,64,20,4500,6.6,195,37385.799999999996,27/07/2022,Rubi,Mumbai,669375,25,Male,Executive Manager
+258,24,6,Xiaomi,Redmi Note 11,Android,128,4,2.44,50,13,5000,6.4,179,15198.9,2022-09-02 00:00:00,Rubi,Mumbai,669375,25,Male,Executive Manager
